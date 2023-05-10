@@ -1,7 +1,6 @@
 [
   ["Dawn S3", "0.1868977"],
   ["ZeroRed S1 10ohm", "0.2858820"],
-  ["Red V3.1 10ohm", "0.3165357"],
   ["Buds2", "0.3519476"],
   ["ZeroRed S7 10ohm", "0.3601539"],
   ["ZeroRed S5 10ohm", "0.3743308"],
@@ -28,5 +27,6 @@
   ["D13 Silver", "0.4759157"],
   ["N5005 Bass Boost", "0.4824619"],
   ["Hayabusa On", "0.4845349"],
-  ["Diamond String", "0.4846485"]
+  ["Diamond String", "0.4846485"],
+  ["Excalibur", "0.4851706"]
 ]

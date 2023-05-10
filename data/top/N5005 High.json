@@ -20,7 +20,6 @@
   ["Hana 2021", "0.5920215"],
   ["ZeroRed S1 10ohm", "0.5931116"],
   ["ZeroRed S3 10ohm", "0.5980306"],
-  ["Red V3.1 10ohm", "0.6007304"],
   ["ZeroRed S5 10ohm", "0.6011454"],
   ["ZeroRed S4 10ohm", "0.6052240"],
   ["Shangri-la", "0.6092491"],
@@ -28,5 +27,6 @@
   ["ZeroRed S6 10ohm", "0.6106310"],
   ["ZeroRed S7 10ohm", "0.6133289"],
   ["ZeroRed S8 10ohm", "0.6154035"],
-  ["Buds2 Pro Passive", "0.6192366"]
+  ["Buds2 Pro Passive", "0.6192366"],
+  ["direm PRO", "0.6218374"]
 ]

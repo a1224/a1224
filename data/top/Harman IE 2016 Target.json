@@ -1,7 +1,6 @@
 [
   ["ZeroRed S10 10ohm", "0.6115607"],
   ["ZeroRed S4 10ohm", "0.6357373"],
-  ["Red V3.1 10ohm", "0.6369008"],
   ["ZeroRed S9 10ohm", "0.6454018"],
   ["ZeroRed S2 10ohm", "0.6486955"],
   ["ZeroRed S5 10ohm", "0.6512368"],
@@ -28,5 +27,6 @@
   ["Clairvoyance", "0.8055830"],
   ["Zero TE S7", "0.8165475"],
   ["Sora", "0.8227757"],
-  ["Zero Salnotes", "0.8232326"]
+  ["Zero Salnotes", "0.8232326"],
+  ["Yume S2", "0.8284898"]
 ]
